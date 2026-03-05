@@ -82,8 +82,7 @@ Vídeos tranquilos, curiosos,<br>con mi propio estilo.<br><br>
 
 **🎵 Udio**<br>
 Buscador de pepitas de oro<br>en el río de la música IA.<br><br>
-[![Music](https://img.shields.io/badge/Udio_Explorer-1DB954?style=for-the-badge&logo=musicbrainz&logoColor=white)]
-(https://wallermax.zapto.org/music/)
+[![Music](https://img.shields.io/badge/Udio_Explorer-1DB954?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://wallermax.zapto.org/music/)
 
 </td>
 <td align="center" width="33%">
