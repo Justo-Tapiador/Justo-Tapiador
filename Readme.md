@@ -51,6 +51,7 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <table>
 <tr>
 <td>
+  
 ### 🦎 [predator-agent](https://github.com/Justo-Tapiador/predator-agent)
 **Predator** is a concrete embodiment of the *Agentic Neural Network (ANN-Ψ)* architecture. Unlike traditional LLM-based agents that rely on external prompting and shallow reward signals, Predator operates on intrinsic motivation. Every computational unit within Predator is an *agent*—an Artificial Junky Neuron (AJN)—that craves specific stimuli, explores its environment to satisfy that craving, and self-regulates through a six-phase life-cycle.
 </td>
