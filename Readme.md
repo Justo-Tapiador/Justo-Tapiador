@@ -52,6 +52,12 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <tr>
 <td width="50%">
 
+### 🦎 [predator-agent](https://github.com/Justo-Tapiador/predator-agent)
+**Predator** is a concrete embodiment of the *Agentic Neural Network (ANN-Ψ)* architecture. Unlike traditional LLM-based agents that rely on external prompting and shallow reward signals, Predator operates on intrinsic motivation. Every computational unit within Predator is an *agent*—an Artificial Junky Neuron (AJN)—that craves specific stimuli, explores its environment to satisfy that craving, and self-regulates through a six-phase life-cycle.
+
+</td>
+<td width="50%">
+
 ### 🔖 [node-jhs2](https://github.com/Justo-Tapiador/node-jhs2)
 Motor de templates dinámico para Node.js. Permite incrustar JavaScript directamente en HTML usando delimitadores `<?jhs ... ?>` — similar a PHP pero potenciado por JavaScript. Incluye sandbox VM, protección XSS automática y caché de templates.
 
