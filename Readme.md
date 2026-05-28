@@ -53,7 +53,7 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <td>
   
 ### 🦎🟧 [predator-jungle-agent](https://github.com/Justo-Tapiador/predator-jungle-agent)
-**Predator Jungle Agent ** es un sistema de IA profunda basado en el marco Artificial Junky Neuron (AJN), especializado en escritura creativa, arte generativo, composición musical, narración de historias, lluvia de ideas e ideación abierta. Implementado completamente en Node.js.
+**Predator Jungle Agent** es un sistema de IA profunda basado en el marco Artificial Junky Neuron (AJN), especializado en escritura creativa, arte generativo, composición musical, narración de historias, lluvia de ideas e ideación abierta. Implementado completamente en Node.js.
 </td>
 </tr>
 <tr>
