@@ -52,6 +52,13 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <tr>
 <td>
   
+### 🦎🟧 [predator-JUNGLE- agent](https://github.com/Justo-Tapiador/predator-jungle-agent)
+**Predator Jungle Agent ** es Un sistema de IA profunda basado en el marco Artificial Junky Neuron (AJN), especializado en escritura creativa, arte generativo, composición musical, narración de historias, lluvia de ideas e ideación abierta. Implementado completamente en Node.js.
+</td>
+</tr>
+<tr>
+<td>
+  
 ### 🦎 [predator-agent](https://github.com/Justo-Tapiador/predator-agent)
 **Predator** es una materialización concreta de la arquitectura de Red Neuronal Agente (ANN-Ψ). A diferencia de los agentes tradicionales basados ​​en LLM, que dependen de estímulos externos y señales de recompensa superficiales, Predator opera con motivación intrínseca. Cada unidad computacional dentro de Predator es un agente —una Neurona Artificial Adictiva (AJN)— que anhela estímulos específicos, explora su entorno para satisfacer ese anhelo y se autorregula a través de un ciclo de vida de seis fases.
 </td>
