@@ -52,6 +52,13 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <tr>
 <td>
   
+### 🦎🟧 [SPILBERGIAN](https://github.com/Justo-Tapiador/spilbergian
+**SPILBERGIAN — A Cinematic AI Director** An autonomous cinematic AI agent built on the Artificial Junky Neuron (AJN) framework by Justo Tapiador García (UA). v3.0 transforms PREDATOR into a virtual film director in the style of Steven Spielberg that generates, edits, and publishes complete videos to YouTube without human intervention.
+</td>
+</tr>
+<tr>
+<td>
+  
 ### 🦎🟧 [predator-jungle-agent](https://github.com/Justo-Tapiador/predator-jungle-agent)
 **Predator Jungle Agent** es un sistema de IA profunda basado en el marco Artificial Junky Neuron (AJN), especializado en escritura creativa, arte generativo, composición musical, narración de historias, lluvia de ideas e ideación abierta. Implementado completamente en Node.js.
 </td>
