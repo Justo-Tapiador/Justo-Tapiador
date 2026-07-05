@@ -53,7 +53,7 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <td>
   
 ### ⚛ [FUSIONARY-AGENT](https://github.com/Justo-Tapiador/fusionary-agent)
-**FUSIONARY-AGENt — An Autonomous Scientific Research Agent for Practical, Safe, Short-to-Mid-Term Nuclear Fusion Energy.
+**FUSIONARY-AGENT — An Autonomous Scientific Research Agent** for Practical, Safe, Short-to-Mid-Term Nuclear Fusion Energy.
 Built on the Artificial Junky Neuron (AJN) framework by Justo Tapiador Garcia (Universidad de Alicante), drastically extended from predator-jungle-agent v2.0
 </td>
 </tr>
