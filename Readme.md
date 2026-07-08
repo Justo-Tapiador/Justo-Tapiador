@@ -42,7 +42,7 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <tr>
 <td>
   
-### ⚛ [QUANTUM-SPHERIFIER](https://github.com/Justo-Tapiador/quantum-spherifiert)
+### ⚛ [QUANTUM-SPHERIFIER](https://github.com/Justo-Tapiador/quantum-spherifier)
 **An Autonomous Scientific Research Agent for Quantum Computing** (QEC · Qubits · Algorithms · Simulation)
 </td>
 </tr>
