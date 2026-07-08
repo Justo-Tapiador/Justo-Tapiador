@@ -4,12 +4,9 @@
 
 </div>
 
-<br>
 
 <div align="center">
-
 *« Cuando la tarde languidece renacen las sombras »*
-
 </div>
 
 <br>
