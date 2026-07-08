@@ -51,8 +51,9 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <table>
 <tr>
 <td>
+  
 ### ⚛ [QUANTUM-SPHERIFIER](https://github.com/Justo-Tapiador/quantum-spherifiert)
-Autonomous Scientific Research Agent for Quantum Computing (QEC · Qubits · Algorithms · Simulation)
+**An Autonomous Scientific Research Agent for Quantum Computing** (QEC · Qubits · Algorithms · Simulation)
 </td>
 </tr>
   
