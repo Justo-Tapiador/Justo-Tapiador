@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Justo%20Tapiador%20García&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Universidad%20de%20Alicante%20(UA)%20Alicante%20%7C%20España&descSize=20&descAlignY=58&descColor=a8dadc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Justo%20Tapiador%20García&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Universidad%20de%20Alicante%20(UA)%20Alicante%20%7C%20España&descSize=18&descAlignY=58&descColor=a8dadc&animation=fadeIn" width="100%"/>
 
 </div>
 
