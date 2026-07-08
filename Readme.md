@@ -51,6 +51,15 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 <table>
 <tr>
 <td>
+### ⚛ [QUANTUM-SPHERIFIER](https://github.com/Justo-Tapiador/quantum-spherifiert)
+Autonomous Scientific Research Agent for Quantum Computing (QEC · Qubits · Algorithms · Simulation)
+</td>
+</tr>
+  
+<tr>
+  
+<tr>
+<td>
   
 ### ⚛ [FUSIONARY-AGENT](https://github.com/Justo-Tapiador/fusionary-agent)
 **FUSIONARY-AGENT — An Autonomous Scientific Research Agent** for Practical, Safe, Short-to-Mid-Term Nuclear Fusion Energy.
