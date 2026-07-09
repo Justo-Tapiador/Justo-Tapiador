@@ -13,9 +13,10 @@ Manchego de origen, **alicantino de adopción desde hace más de medio siglo**. 
 Cuando no estoy frente al editor de código, me puedes encontrar buscando pepitas de oro en el río musical de **Udio**, grabando vídeos para YouTube, o con los pinceles manchados de óleo, acrílico o acuarela.
 
 ```
-Nombre     →  Justo Tapiador García
-Ubicación  →  Alicante (capital), España 🌊☀️
-Estado     →  Jubilado & programando con calma
+Nombre       →  Justo Tapiador García
+Ubicación    →  Alicante (capital), España 🌊☀️
+Institución  →  Universidad de Alicante (UA)
+Estado       →  Jubilado & programando con calma
 ```
 
 ---
