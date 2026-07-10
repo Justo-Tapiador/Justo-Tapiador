@@ -40,6 +40,14 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 ## 🚀 Proyectos destacados
 
 <table>
+  <tr>
+<td>
+  
+### ζ [ZETA-RIEMANNIAN-AGENT](https://github.com/Justo-Tapiador/zeta-riemannian-agent)
+**ZETA-RIEMANNIAN-AGENT — An Autonomous Mathematical Research Agent for the Riemann Hypothesisg**Build, attempt, and archive mathematical hypotheses related to the Riemann Hypothesis — autonomously, around the clock, the moment it is launched. When — and only when — a verifier-accepted proof of RH is produced, halt everything and alert the human owne
+</td>
+</tr>
+  
 <tr>
 <td>
   
