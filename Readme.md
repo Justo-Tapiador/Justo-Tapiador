@@ -108,35 +108,6 @@ Módulo complementario para node-jhs2 que añade **renderizado jerárquico por r
 
 ---
 
-## 🎨 Más allá del código
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🎬 YouTube**<br>
-Vídeos tranquilos, curiosos,<br>con mi propio estilo.<br><br>
-[![YouTube](https://img.shields.io/badge/TranquilWillyChill-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TranquilWillyChill/videos)
-
-</td>
-<td align="center" width="33%">
-
-**🎵 Udio**<br>
-Buscador de pepitas de oro<br>en el río de la música IA.<br><br>
-[![Music](https://img.shields.io/badge/Udio_Explorer-1DB954?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://wallermax.zapto.org/music/)
-
-</td>
-<td align="center" width="33%">
-
-**🖌️ Pintura**<br>
-Óleo · Acrílico · Acuarela<br>El lienzo como segundo<br>lenguaje de expresión.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📬 Contacto
 
 <div align="center">
