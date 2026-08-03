@@ -110,13 +110,12 @@ Módulo complementario para node-jhs2 que añade **renderizado jerárquico por r
 
 ## 📬 Contacto
 
-<div align="center">
+
 
 [![Gmail](https://img.shields.io/badge/justo.tapiador@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justo.tapiador@gmail.com)
 [![Yahoo](https://img.shields.io/badge/justo.tapiador@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:justo.tapiador@yahoo.com)
 [![GitHub](https://img.shields.io/badge/Justo--Tapiador-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justo-Tapiador)
 
-</div>
 
 ---
 
