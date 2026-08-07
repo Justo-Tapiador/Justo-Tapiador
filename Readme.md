@@ -43,7 +43,7 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
   <tr>
 <td>
   
-### 🌐 [CONJUGATE-NEURON](https://github.com/Justo-Tapiador/conjugate-meuron)
+### 🌐 [CONJUGATE-NEURON](https://github.com/Justo-Tapiador/conjugate-neuron)
 **CONJUGATE-NEURON ()Alias MICROSTATE-NEURON) — An experimental comparison of a classical (degree-0) neuron against a degree (-1) microstate neuron, derived from the logarithmic-exponential conjugation principle for arithmetic operations.** The experiment proposed in the conversation that originated from the papers A Logarithmic-Exponential Conjugation Principle for Arithmetic Operations and Towards a Conjugate Arithmetic — Algebraic, Geometric and Computational Perspectives (J. Tapiador García)
 </td>
 </tr>
