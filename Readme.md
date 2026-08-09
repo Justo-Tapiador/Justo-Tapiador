@@ -40,6 +40,13 @@ Mi lenguaje principal es **JavaScript / Node.js**, con el que construyo template
 ## 🚀 Proyectos destacados
 
 <table>
+    <tr>
+<td>
+  
+### 🏦 [MICRO-NEURON-FINANCE](https://github.com/Justo-Tapiador/micro-neuron-finance)
+**MICRO-NEURON-FINANCE) — An experimental comparison of a classical (degree-0) neuron against a degree-(-1) microstate neuron on real Yahoo Finance data, derived from the logarithmic-exponential conjugation principle.**
+</td>
+</tr>
   <tr>
 <td>
   
