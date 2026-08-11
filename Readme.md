@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-Originally from Alcolea de Calatrava (La Mancha, Spain), **an Alicante resident by adoption for more than half a century**. Retired with the privilege of free time — that scarce resource I dedicate to what I am most passionate about: programming, creating, exploring, and enjoying life.
+Originally from **Alcolea de Calatrava** (La Mancha, Spain), **an Alicante resident by adoption for more than half a century**. Retired with the privilege of free time — that scarce resource I dedicate to what I am most passionate about: programming, creating, exploring, and enjoying life.
 
 When I'm not in front of the code editor, you can find me searching for gold nuggets in the musical river of **Udio**, recording videos for YouTube, or with my brushes covered in oil, acrylic, or watercolor paint.
 
