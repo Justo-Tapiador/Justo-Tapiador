@@ -40,6 +40,15 @@ My main language is **JavaScript / Node.js**, which I use to build template engi
 ## 🚀 Featured Projects
 
 <table>
+        <tr>
+<td>
+
+### ▶️ [WALLERMAX-H1](https://github.com/Justo-Tapiador/wallermax-h1)
+
+**WALLERMAX-H1 — is a beta prototype of a video generator based on 3D scene rendering. It is an experimental project that demonstrates how a Large Language Model (LLM) can be used to translate a natural-language description — optionally accompanied by reference and look-dev images — into a fully procedural 3D animation rendered as an MP4 video..**
+
+</td>
+</tr>
     <tr>
 <td>
 
