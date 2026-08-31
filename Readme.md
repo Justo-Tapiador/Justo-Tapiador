@@ -40,7 +40,7 @@ My main language is **JavaScript / Node.js**, which I use to build template engi
 ## 🚀 Featured Projects
 
 <table>
-        <tr>
+<tr>
 <td>
 
 ### 🧠 [IA-SO BROODER](https://github.com/Justo-Tapiador/ia-so-brooder)
@@ -50,7 +50,7 @@ My main language is **JavaScript / Node.js**, which I use to build template engi
 </td>
 </tr>
         
-        <tr>
+<tr>
 <td>
 
 ### ▶️ [WALLERMAX-H1](https://github.com/Justo-Tapiador/wallermax-h1)
@@ -59,7 +59,7 @@ My main language is **JavaScript / Node.js**, which I use to build template engi
 
 </td>
 </tr>
-    <tr>
+<tr>
 <td>
 
 ### 🏦 [MICRO-NEURON-FINANCE](https://github.com/Justo-Tapiador/micro-neuron-finance)
@@ -98,7 +98,6 @@ Build, attempt, and archive mathematical hypotheses related to the Riemann Hypot
 
 </td>
 </tr>
-  <tr>
   <tr>
 <td>
 
